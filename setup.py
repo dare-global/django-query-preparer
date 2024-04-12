@@ -5,9 +5,9 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="django-query-preparer",
-    version="1.0.1",
-    author="Dan Greenhalgh",
-    author_email="dgreenhalgh@vercer.co.uk",
+    version="1.0.2",
+    author="Dare",
+    author_email="https://dare.global/",
     description="A package to prepare queries in postgres before execution",
     long_description=long_description,
     long_description_content_type="text/markdown",
